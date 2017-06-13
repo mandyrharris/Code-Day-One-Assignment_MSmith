@@ -1,0 +1,47 @@
+* {
+  font-family: arial
+}
+
+header {
+}
+
+nav{
+vertical-align: top;
+  display: inline-block;
+}
+
+
+ul{
+  display: inline-block;
+}
+
+li{
+color: orange;
+display: inline-block;
+padding: 5px 5px 5px 5px;
+margin: 16px;
+}
+
+h1 {
+  font-size: 2.0em; /* 1em = default font size */
+}
+
+h3 {
+}
+
+/*ID selector */
+.product {
+  display: block;
+  background-color: #FF6347
+}
+
+#prodImage {
+}
+
+#prodDes {
+
+}
+
+#prodDes2 {
+  color: white;
+}
